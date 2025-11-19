@@ -1,0 +1,14 @@
+C:\Users\Cody\PixelAvatar\bin\Debug\net8.0\PixelAvatar.exe
+C:\Users\Cody\PixelAvatar\bin\Debug\net8.0\PixelAvatar.deps.json
+C:\Users\Cody\PixelAvatar\bin\Debug\net8.0\PixelAvatar.runtimeconfig.json
+C:\Users\Cody\PixelAvatar\bin\Debug\net8.0\PixelAvatar.dll
+C:\Users\Cody\PixelAvatar\bin\Debug\net8.0\PixelAvatar.pdb
+C:\Users\Cody\PixelAvatar\obj\Debug\net8.0\PixelAvatar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cody\PixelAvatar\obj\Debug\net8.0\PixelAvatar.AssemblyInfoInputs.cache
+C:\Users\Cody\PixelAvatar\obj\Debug\net8.0\PixelAvatar.AssemblyInfo.cs
+C:\Users\Cody\PixelAvatar\obj\Debug\net8.0\PixelAvatar.csproj.CoreCompileInputs.cache
+C:\Users\Cody\PixelAvatar\obj\Debug\net8.0\PixelAvatar.dll
+C:\Users\Cody\PixelAvatar\obj\Debug\net8.0\refint\PixelAvatar.dll
+C:\Users\Cody\PixelAvatar\obj\Debug\net8.0\PixelAvatar.pdb
+C:\Users\Cody\PixelAvatar\obj\Debug\net8.0\PixelAvatar.genruntimeconfig.cache
+C:\Users\Cody\PixelAvatar\obj\Debug\net8.0\ref\PixelAvatar.dll
